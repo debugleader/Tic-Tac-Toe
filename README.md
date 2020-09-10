@@ -1,9 +1,15 @@
 # Tic-Tac-Toe
 ![Tic-tac-toe](https://media.giphy.com/media/KGx1mnE84JAWHxtUlL/giphy.gif)
 # How can I run it?
-* `Clone the repository.`
-* `pip install pygame`
-* `python game.py`
+```
+Clone the repository.
+```
+```python
+pip install pygame
+```
+```python
+python game.py
+```
 # Version 2
 * Improved mechanics
 * Added sound effects and music
