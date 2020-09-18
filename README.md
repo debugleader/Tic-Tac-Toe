@@ -22,3 +22,4 @@ Also I really appreciate people who try to fix erros/bugs or simply make the pro
 Thank youu for reading this!!
 
 ---
+[![forthebadge](https://forthebadge.com/images/badges/made-with-python.svg)](https://github.com/debugleader/Tic-Tac-Toe)
